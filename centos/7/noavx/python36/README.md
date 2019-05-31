@@ -8,6 +8,14 @@
 
 ----
 
+## Install Instructions
+
+```
+pip install /path/to/tensorflow-1.12.2-cp36-cp36m-linux_x86_64.whl
+```
+
+----
+
 ## cpuinfo
 
 ```
