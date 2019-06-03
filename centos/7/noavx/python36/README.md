@@ -8,6 +8,13 @@
 
 ----
 
+**Please do not fork this project to include new wheels.** 
+Please create an issue on the following project and link to your wheel.  Thanks!
+
+https://github.com/yaroslavvb/tensorflow-community-wheels
+
+----
+
 ## Install Instructions
 
 ```
